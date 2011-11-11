@@ -1,0 +1,13 @@
+82372d1fd264af6af73601e50058b167 *DESCRIPTION
+1c8d23ffafe2958b60f0dc21e053ffa5 *NAMESPACE
+545ea972f24859b2e6a47ed8cffaf3a5 *data/GenomeWideSNP_5.RData
+beefd6bf1920c87f3d5500b4f232dc6c *data/GenomeWideSNP_6.RData
+0b1371c004f15ac088bdae7a53d3a74c *data/Mapping250K_Nsp.RData
+231eb176215b95d27f11663b01ceecd2 *data/Mapping250K_Sty.RData
+449224bb0cfb90af6c5c6924ec7cb367 *data/datalist
+d3a38df61542a0425876901b0f6c5f14 *inst/CITATION
+ea8f5f748d5ec38844110be21153f95e *man/GenomeWideSNP_5.Rd
+3ac29c5c43441a103042d230b9bd7ccd *man/GenomeWideSNP_6.Rd
+4b2c2d9ea4a7aa6c0581f7f7f5bb1916 *man/Mapping250K_Nsp.Rd
+f3c94f00060e3304b9c90b89192a1e63 *man/Mapping250K_Sty.Rd
+c36ae705fa2efe89f8266375ea3104e0 *man/SNPMaP.cdm-package.Rd

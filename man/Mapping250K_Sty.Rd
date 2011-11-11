@@ -3,7 +3,7 @@
 \docType{data}
 \title{cdm for the Mapping250K\_Sty microarray}
 \description{
-  A \code{\link[SNPMaP:SNPMAP-package]{SNPMaP}} \code{cdm} for the Affymetrix Mapping250K\_Sty
+  A \code{\link[SNPMaP:SNPMaP-package]{SNPMaP}} \code{cdm} for the Affymetrix Mapping250K\_Sty
   genotyping microarray that forms a 500K set with the Mapping250K\_Nsp.
 }
 \usage{Mapping250K_Sty}

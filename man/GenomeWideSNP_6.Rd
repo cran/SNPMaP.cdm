@@ -3,7 +3,7 @@
 \docType{data}
 \title{cdm for the GenomeWideSNP\_6 microarray}
 \description{
-  A \code{\link[SNPMaP:SNPMAP-package]{SNPMaP}} \code{cdm} for the Affymetrix GenomeWideSNP\_6
+  A \code{\link[SNPMaP:SNPMaP-package]{SNPMaP}} \code{cdm} for the Affymetrix GenomeWideSNP\_6
   genotyping microarray.
 }
 \usage{GenomeWideSNP_6}
